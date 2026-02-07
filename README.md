@@ -4,7 +4,16 @@ Modeling and analysis of a DC motor using MATLAB and Simulink
 
 ## Objective
 To model and analyze a DC motor as an electromechanical system using MATLAB and Simulink.
+## MATLAB Implementation
 
+The DC motor mathematical model was implemented in MATLAB using transfer function and state-space approaches.
+
+Main script:
+- `dc_motor_model.m`
+
+Simulink model:
+- `dc_motor_simulink.slx`
+  
 ## Tools Used
 - MATLAB
 - Simulink
