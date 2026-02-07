@@ -11,7 +11,7 @@ The DC motor mathematical model was implemented in MATLAB using transfer functio
 Main script:
 - `dc_motor_model.m`
 ![DC Motor Speed Response](IMG-20260207-WA0009.jpg)
-
+![Speed vs Time and Voltage](IMG-20260207-WA0007.jpg)
 Simulink model:
 - `dc_motor_simulink.slx`
   
